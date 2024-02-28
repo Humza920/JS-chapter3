@@ -10,5 +10,5 @@ alert("My age is " + age + " years old")
 // Question 3
 
 var birthYear = (2006)
-document.write("My birth year is " + birthYear + "Data type of my declared variable is number") 
+document.write("My birth year is " + birthYear + "</br> Data type of my declared variable is number") 
 
